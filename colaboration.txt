@@ -1,4 +1,7 @@
 testing git file
 hello friends
 
-yar ya jo ab main code likh raha hn isy filhal hide e rakhna hai kisi ko dikhanan nai hai waqt k sath sath  e isy thora thora show karainn gy
+yar ya jo ab main code likh raha hn isy filhal hide e rakhna hai kisi ko dikhanan nai hai waqt k sath sath  e isy thora tho
+ra show karainn gy
+
+stash hona chahya tha  yar
